@@ -1,2 +1,2 @@
 # price_listener
- script listening to price of bitcon and ethereum 
+ script listening to price of bitcon and ether 
